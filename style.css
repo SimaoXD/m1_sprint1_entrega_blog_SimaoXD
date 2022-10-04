@@ -1,0 +1,68 @@
+body{ background: #2b3792;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    padding: 30px;
+    text-align: center;
+    background: rgb(75, 2, 2);
+    border: solid 5px black;
+  }
+  
+  audio {float: right;}
+    
+
+
+  
+
+.Conteudo01{ 
+    font-family: 'Roboto', sans-serif;
+    border: solid 5px black;
+    text-align: justify;
+    margin: 10px;
+    width:1820px;
+    background-color:rgb(169, 153, 153)}
+
+
+.Conteudo02{ 
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    border: solid 5px black;
+    margin: 10px;
+    width: 1820px;
+    background-color:rgb(169, 153, 153)}
+
+.Conteudo03{ 
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    border: solid 5px black;
+    margin: 10px;
+    width: 1820px;
+    background-color:rgb(169, 153, 153)}
+
+.Conteudo04{ 
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    border: solid 5px black;
+    margin: 10px;
+    width: 1820px;
+    background-color:rgb(169, 153, 153)}
+
+    form{
+        padding: 30px;
+        text-align: center;
+        background: rgb(75, 2, 2);
+        border: solid 5px black;}
+         
+
+    
+            
+    .input:focus-visible{
+            width: 15%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: 2px solid red;
+            border-radius: 4px;}
+
+
