@@ -1,57 +1,77 @@
-body{ background: #2b3792;
+body{ 
     font-family: 'Roboto', sans-serif;
+    background: rgb(75, 2, 2);
+    outline: 1px solid red
 }
 
 header {
     padding: 30px;
     text-align: center;
-    background: rgb(75, 2, 2);
+    background: #2b3792;
     border: solid 5px black;
   }
   
-  audio {float: right;}
+  audio {float: right; padding: 5px;}
     
 
+main{
+    display:flex;
+    outline: 1px solid rgb(0, 255, 204)  
+}
 
+button{
+    background-color: #3816c4;
+    border-radius: 8px;
+    color: white;
+    padding: 5px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 4px;
+    cursor: pointer;}
   
 
 .Conteudo01{ 
+    padding: 30px;
     font-family: 'Roboto', sans-serif;
     border: solid 5px black;
-    text-align: justify;
-    margin: 10px;
-    width:1820px;
+    text-align: center justify;
+    margin: 10px solid;
+    width: 1240px;
     background-color:rgb(169, 153, 153)}
 
 
 .Conteudo02{ 
+    padding: 30px;
     font-family: 'Roboto', sans-serif;
-    text-align: justify;
+    text-align: center justify;
     border: solid 5px black;
-    margin: 10px;
-    width: 1820px;
+    margin: 10px solid;
+    width: 1240px;
     background-color:rgb(169, 153, 153)}
 
 .Conteudo03{ 
+    padding: 30px;
     font-family: 'Roboto', sans-serif;
-    text-align: justify;
+    text-align: center justify;
     border: solid 5px black;
-    margin: 10px;
-    width: 1820px;
+    margin: 10px solid;
+    width: 1240px;
     background-color:rgb(169, 153, 153)}
 
-.Conteudo04{ 
+.Conteudo04{ padding: 30px;
     font-family: 'Roboto', sans-serif;
-    text-align: justify;
+    text-align: center justify;
     border: solid 5px black;
-    margin: 10px;
-    width: 1820px;
+    margin: 10px solid;
+    width: 1240px;
     background-color:rgb(169, 153, 153)}
 
     form{
         padding: 30px;
         text-align: center;
-        background: rgb(75, 2, 2);
+        background: #2b3792;
         border: solid 5px black;}
          
 
@@ -65,4 +85,5 @@ header {
             border: 2px solid red;
             border-radius: 4px;}
 
+            
 
